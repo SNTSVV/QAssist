@@ -1,0 +1,18 @@
+"QAssist-REP" is © 2022 University of Luxembourg
+and is distributed under the MIT license.
+
+Authors:
+  	
+	Saad EZZINI <saad.ezzini@uni.lu>
+	Sallam ABUALHAIJA <sallam.abuahaija@uni.lu>
+	Chetan Arora
+	Mehrdad Sabetzadeh
+
+Paper:
+	- "AI-based Question Answering Assistance for Analyzing Natural-language Requirements", ICSE 2023
+
+"QAssist-REP" includes the following open source components:
+	- Binaries of Natural Language Toolkit (NLTK), Xgboost, langdetect, Haystack, BEIR, Rank_BM25, Transformers, Sentence-transformers, TensorFlow, and TensorFlow-text under Apache 2.0 License
+	- Binaries of Wikipedia, Wikipedia-API, TQDM, QuestGen, question_generator, python-docx, and spaCy under MIT License
+	- Binaries of torch, scikit-learn, NumPy, Pandas, and xlsxwriter under BSD License
+	- Binaries of Python under PSF License
